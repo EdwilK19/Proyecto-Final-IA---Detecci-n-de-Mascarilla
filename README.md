@@ -1,1 +1,1 @@
-# Proyecto-Final-IA---Detecci-n-de-Mascarilla
+# Universidad Tecnológica de Panamá
