@@ -1,0 +1,8 @@
+item {
+	name: 'Con_Mascarilla'
+	id: 1
+}
+item {
+	name: 'Sin_Mascarilla'
+	id: 2
+}
