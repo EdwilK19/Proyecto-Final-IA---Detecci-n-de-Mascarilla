@@ -1,2 +1,2 @@
 # Proyecto IA - Sistema de Detección de Mascarilla mediante Visión Artificial
-Crear entorno en conda
+Universidad Tecnológica de Panamá
