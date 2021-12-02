@@ -1,1 +1,1 @@
-# Proyecto IA - Sistema de detección de mascarilla mediante visión artificial
+# Proyecto IA - Sistema de Detección de Mascarilla mediante Visión Artificial
